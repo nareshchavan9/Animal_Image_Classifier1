@@ -1,3 +1,3 @@
 
-# To run flask App : 
+# To run flask app : 
   python app.py
