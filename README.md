@@ -4,8 +4,5 @@
   model = ResNet50(weights='imagenet')
   model.save('model.keras')
 
-# Create Upload folder
-   This folder will store images which are given as input
-
 # To run flask App : 
   python app.py
